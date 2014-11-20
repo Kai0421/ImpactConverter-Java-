@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Convertisseur d\'Impact</string>
+    <string name="action_settings">Settings</string>
+    <string name="sp_test">Entrez le texte pour tester les préférences partagées</string>
+    <string name="sp_test_hint">Votre requête</string>
+    <string name="bt_tv">Convertir</string>
+    <string name="button">Continuer</string>
+
+</resources>
